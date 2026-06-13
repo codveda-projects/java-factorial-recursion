@@ -1,4 +1,3 @@
-// Factorial.java
 public class Factorial {
 
     // Recursive method to calculate factorial
